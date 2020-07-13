@@ -6,10 +6,10 @@ public class test {
         System.out.println("!!!");
         System.out.println("!!!");
         System.out.println("!!!");
-        add();
+        System.out.println("!!!");
+        file();
     }
 
-    private static void add() {
-
+    private static void file() {
     }
 }
