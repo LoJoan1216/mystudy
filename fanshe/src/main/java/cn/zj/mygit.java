@@ -5,6 +5,7 @@ public class mygit {
         System.out.println("hahaa");
         System.out.println("13891893");
           System.out.println("！！！");
+        System.out.println("8888！");
           add();
     }
 
